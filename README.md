@@ -1,3 +1,3 @@
 # hello-world
 briana creates a github repository
-briana likes yoga. amd pizza.
+briana likes yoga. and pizza.
